@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+<<<<<<< HEAD
     "name": "Body Splash Melancia",
     "category": "Body Splash",
     "description": "Uma fragrância delicada, limpa e confortável para acompanhar sua rotina.",
@@ -135,4 +136,144 @@
 
 
 
+=======
+    "name": "Body Splash Flor de Algodão",
+    "category": "Body Splash",
+    "description": "Uma fragrância delicada, limpa e confortável para acompanhar sua rotina.",
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 2,
+    "name": "Body Splash Rosé",
+    "category": "Body Splash",
+    "description": "Notas florais suaves com um toque elegante e feminino.",
+    "image": "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 3,
+    "name": "Body Splash Baunilha",
+    "category": "Body Splash",
+    "description": "Uma fragrância cremosa, acolhedora e irresistivelmente envolvente.",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 4,
+    "name": "Body Splash Brisa Tropical",
+    "category": "Body Splash",
+    "description": "Frescor leve e vibrante inspirado em dias ensolarados.",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 5,
+    "name": "Body Splash Noite Dourada",
+    "category": "Body Splash",
+    "description": "Uma combinação marcante para momentos especiais.",
+    "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 6,
+    "name": "Sabonete Botânico",
+    "category": "Sabonetes",
+    "description": "Sabonete artesanal com inspiração botânica e aroma delicado.",
+    "image": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 7,
+    "name": "Sabonete Leite & Mel",
+    "category": "Sabonetes",
+    "description": "Uma experiência acolhedora para transformar o banho em ritual.",
+    "image": "https://images.unsplash.com/photo-1600428853876-fb5a850b5ca4?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 8,
+    "name": "Sabonete Lavanda",
+    "category": "Sabonetes",
+    "description": "Aroma floral relaxante para um momento de cuidado pessoal.",
+    "image": "https://images.unsplash.com/photo-1607006483225-4e6f6f2d4d1b?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 9,
+    "name": "Sabonete Esfoliante Natural",
+    "category": "Sabonetes",
+    "description": "Textura especial para um cuidado sensorial e renovador.",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 10,
+    "name": "Kit Sabonetes Artesanais",
+    "category": "Sabonetes",
+    "description": "Uma seleção artesanal para presentear ou montar seu ritual.",
+    "image": "https://images.unsplash.com/photo-1603905179139-d6b9a3f7b5d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 11,
+    "name": "Vela Aromática Âmbar",
+    "category": "Velas",
+    "description": "Luz suave e perfume envolvente para criar uma atmosfera aconchegante.",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 12,
+    "name": "Vela Aromática Lavanda",
+    "category": "Velas",
+    "description": "Uma fragrância tranquila para desacelerar e relaxar.",
+    "image": "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 13,
+    "name": "Vela Baunilha & Cedro",
+    "category": "Velas",
+    "description": "Notas quentes e amadeiradas para um ambiente elegante.",
+    "image": "https://images.unsplash.com/photo-1602607740425-7b4b9e4b1c7b?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 14,
+    "name": "Vela Floral Branca",
+    "category": "Velas",
+    "description": "A delicadeza das flores em uma composição leve e sofisticada.",
+    "image": "https://images.unsplash.com/photo-1603905179139-d6b9a3f7b5d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 15,
+    "name": "Kit Velas para Presente",
+    "category": "Velas",
+    "description": "Um presente especial para perfumar momentos e memórias.",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 16,
+    "name": "Home Spray Chá Branco",
+    "category": "Aromas para Casa",
+    "description": "Perfume delicado para renovar a sensação de frescor nos ambientes.",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 17,
+    "name": "Difusor de Ambiente Âmbar",
+    "category": "Aromas para Casa",
+    "description": "Perfume contínuo para deixar sua casa com identidade própria.",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 18,
+    "name": "Água de Lençóis Lavanda",
+    "category": "Aromas para Casa",
+    "description": "Um toque perfumado para roupas de cama e momentos de descanso.",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 19,
+    "name": "Essência para Ambientes",
+    "category": "Aromas para Casa",
+    "description": "Uma fragrância especial para compor a atmosfera do seu espaço.",
+    "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 20,
+    "name": "Kit Casa Perfumada",
+    "category": "Aromas para Casa",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=900&q=85"
+  }
+>>>>>>> b6bcf8787760525d601dff0ee41790c9b071a49b
 ]

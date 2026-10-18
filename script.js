@@ -43,7 +43,11 @@ function renderProducts() {
         <h3>${escapeHTML(product.name)}</h3>
         <p>${escapeHTML(product.description)}</p>
         <div class="product-action">
+<<<<<<< HEAD
           <span>DESCUBRA MAIS ESSÊNCIAS</span>
+=======
+          <span>DESCUBRA ESTA ESSÊNCIA</span>
+>>>>>>> b6bcf8787760525d601dff0ee41790c9b071a49b
           <button class="learn-more" type="button" data-product-id="${product.id}">SAIBA MAIS ↗</button>
         </div>
       </div>
