@@ -37,16 +37,7 @@
     "description": "Uma seleção de fragrâncias frutadas que combina notas de pera, frutas vermelhas, ameixa, morango e baunilha, trazendo frescor, doçura e personalidade para acompanhar sua rotina.",
     "image": "img/body_3_fragrancias.jpg"
   },
-
-  {
-    "id": 4,
-    "name": "Body Splash outras fragâncias",
-    "category": "Body Splash",
-    "description": "Uma seleção de fragrâncias frutadas que combina notas de pera, frutas vermelhas, ameixa, morango e baunilha, trazendo frescor, doçura e personalidade para acompanhar sua rotina.",
-    "image": "img/body 4 fragancia.jpg"
-  },
-
-  {
+{
     "id": 6,
     "name": "Sabonete Maracuja",
     "category": "Sabonetes",
@@ -85,13 +76,22 @@
   },
    
   {
-    "id": 20,
+    "id": 25,
     "name": "Casa Perfumada",
     "category": "Aromas para Casa",
     "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
     "image": "img/8.jpeg"
   },
+   {
+    "id": 28,
+    "name": "Casa Perfumada velas",
+    "category": "Aromas para Casa",
+    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+    "image": "img/velas1 dom.jpg"
+  },
 
+
+  
     {
     "id": 21,
     "name": "Perfume outros perfumes",
@@ -123,14 +123,16 @@
     "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
     "image": "img/pr4.jpg"
   }
-  ,
-     {
-    "id": 25,
-    "name": "Perfumes corporais ",
-    "category": "Perfumes",
-    "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
-    "image": "img/pr5.jpeg"
-  }
+,
+      {
+      "id": 26,
+      "name": "home splash",
+      "category": "home splash",
+      "description": "Uma combinação pensada para presentear e perfumar cada detalhe.",
+      "image": "img/home 4 fragancia.jpg"
+    } 
+
+
 
 
 
